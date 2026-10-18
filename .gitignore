@@ -1,3 +1,6 @@
 node_modules/
 coverage/
 package-lock.json
+# Material local (enunciado, prints e relatório)
+*.pdf
+*.jpeg
